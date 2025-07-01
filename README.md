@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will create a basic recipes website. After this project, I will be able to demonstrate the following abilities: create functioning lists and images on a basic website.
